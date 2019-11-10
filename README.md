@@ -1,2 +1,2 @@
-# presentations
-Presentations I've done
+# Presentations
+This is a repository of all presentations I've done.
